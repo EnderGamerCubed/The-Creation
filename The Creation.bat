@@ -17,4 +17,4 @@ echo I am going to send you into the Creation now, remember that knowledge is ke
 pause
 
 
-echo [NPC MAN 1] Hello, I'm NAMEHOLDER 
+echo [NPC MAN 1] Hello, I'm NAMEHOLDER. I havent seen you around here before, what is your name? INSERTNAMEHERE
