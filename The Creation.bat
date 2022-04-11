@@ -15,3 +15,6 @@ pause
 
 echo I am going to send you into the Creation now, remember that knowledge is key to survival...
 pause
+
+
+echo [NPC MAN 1] 
